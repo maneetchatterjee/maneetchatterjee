@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maneet2004/maneet2004/main/assets/banner.gif" alt="Maneet Chatterjee Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/maneetchatterjee/maneetchatterjee/main/assets/banner.gif" alt="Maneet Chatterjee Banner" width="100%" />
 </p>
 
 <!-- Profile Image -->
@@ -97,15 +97,15 @@
 ### ✨ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maneet2004&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneet2004&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maneetchatterjee&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneetchatterjee&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/maneet2004/maneet2004/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/maneetchatterjee/maneetchatterjee/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
