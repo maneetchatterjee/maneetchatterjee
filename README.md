@@ -101,18 +101,21 @@ Mechanical Engineer · Robotics & Simulation Researcher · Digital Twins · Inte
 
 ---
 
-## ✨ GitHub Stats
+<h2>✨ GitHub Stats</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=maneetchatterjee&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+    src="https://stats-github-readme.vercel.app/api?username=maneetchatterjee&show_icons=true&theme=tokyonight"
     height="165"
+    alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneetchatterjee&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://stats-github-readme.vercel.app/api/top-langs?username=maneetchatterjee&layout=compact&theme=tokyonight"
     height="165"
+    alt="Top Languages"
   />
 </p>
+
 
 
 ---
