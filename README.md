@@ -105,7 +105,8 @@ Mechanical Engineer · Robotics & Simulation Researcher · Digital Twins · Inte
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/maneetchatterjee/maneetchatterjee/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/maneetchatterjee/maneetchatterjee/output/github-contribution-grid-snake.svg)
+
 
 ---
 
