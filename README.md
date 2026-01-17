@@ -9,92 +9,92 @@
 </p>
 
 <h1 align="center">Hi, I'm Maneet Chatterjee 👋</h1>
-<h3 align="center">🚀 Mechanical Engineer | 🤖 Robotics Researcher | 📡 IoT Innovator | 🧠 ML Explorer | ⚛️ Quantum Computing Enthusiast</h3>
+<h3 align="center">
+Mechanical Engineer · Robotics & Simulation Researcher · Digital Twins · Intelligent Systems
+</h3>
 
 <p align="center">
   <a href="https://x.com/maneet2018"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=flat&logo=Twitter&logoColor=white" /></a>
-  <a href="mailto:mphys2022@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat&logo=Gmail&logoColor=white" /></a>
+  <a href="mailto:maneet2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat&logo=Gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/maneet-chatterjee-778441190/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=LinkedIn&logoColor=white" /></a>
   <a href="https://www.kaggle.com/maneetchatterjee"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
 </p>
 
 ---
 
-### 👨🏽‍🔬 About Me
+## 👨🏽‍🔬 About Me
 
-- 🏫 3rd Year B.Tech in **Mechanical Engineering**, IIEST Shibpur  
-- 🤖 Building real-time robotics systems, digital twins, and intelligent control pipelines  
-- 🧠 Applying **ML/DL** and **Quantum Computing** in IoT, automation, and physics-based simulations  
-- 🚀 Internships & Projects in **Industrial IoT**, **Robotic Simulations**, **Digital Manufacturing**  
-- 📊 Data-Driven Engineering, ROS, PyBullet, Isaac Sim, MATLAB  
-- 🛠️ I'm building the future, one sensor and simulation at a time.
+- 🏫 **B.Tech Mechanical Engineering**, IIEST Shibpur (Dept. Rank 3/94)
+- 🤖 Researching **robotic manipulation, simulation, and embodied AI**
+- 🧠 Building **vision-based control pipelines** and learning-enabled robotic systems
+- 🛰️ Experience in **industrial IoT, edge computing, and digital twins**
+- 🧪 Strong background in **physics-based modeling, CFD, and system-level simulation**
+- 🛠️ Comfortable moving from **CAD → simulation → code → experiments**
 
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300"/>
 
 ---
 
-### 🧠 Tech Profile
+## 🧠 Technical Profile
 
-| Property                  | Data                                                                 |
-|---------------------------|----------------------------------------------------------------------|
-| **Languages & IDEs**      | Python, C++, Bash, MATLAB / VSCode, Jupyter, ROS tools               |
-| **Frameworks**            | PyTorch, TensorFlow, OpenCV, PyBullet, Gazebo, InfluxDB, Grafana     |
-| **Domain Knowledge**      | Robotics, IoT, Digital Twins, Predictive Maintenance, Quantum ML     |
-| **Tools & Infra**         | Git, Docker, GitHub Actions, MQTT, WebSockets, Linux                 |
-| **Side Projects – App**   | Smart Vibration Monitor, Robotic Sorting System                      |
-| **Side Projects – Web**   | Grafana IoT Dashboards, WebSocket-MQTT Bridges                       |
-| **Current Focus**         | Robot Vision | Digital Twins | Blender & Isaac Sim | Quantum AI      |
-| **CV / Resume**           | [📄 Click here](https://drive.google.com/file/d/1UJ4YjfePSzFzEn3A_ixVTQO6Fih0FTRr/view?usp=sharing) |
+| Category | Details |
+|--------|--------|
+| **Programming** | Python, C++, C#, MATLAB, SQL, JavaScript |
+| **ML & Vision** | PyTorch, TensorFlow, OpenCV, Scikit-learn |
+| **Robotics & Sim** | ROS (1 & 2), PyBullet, MuJoCo, Isaac Sim, Gazebo |
+| **Design & CFD** | SolidWorks, ANSYS Fluent, COMSOL, OpenFOAM, Blender |
+| **IoT & Systems** | Raspberry Pi, MQTT, WebSockets, InfluxDB, Grafana |
+| **Infra & Tools** | Git, Docker, Linux, LaTeX |
+| **Research Focus** | Robotic manipulation · Digital twins · Learning-based control |
+| **CV / Resume** | [📄 View CV](https://drive.google.com/file/d/1UJ4YjfePSzFzEn3A_ixVTQO6Fih0FTRr/view) |
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-FF6F00?style=for-the-badge)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![PyBullet](https://img.shields.io/badge/PyBullet-FFD700?style=for-the-badge)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-000000?style=for-the-badge)
+![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![MQTT](https://img.shields.io/badge/MQTT-FF6F00?style=for-the-badge)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge)
 
 ---
 
-#### ⚛️ Gravitational Wave Simulation
+## 🧪 Visuals from Engineering & Simulation
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhndHBmdHM2cm1uajBvc3picmhvenp6OGltcjA4am51anRzOXYyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9DPlhI5bVW4IBpmM/giphy.gif" width="400"/>
-
-#### 🧠 Insane F1 Engineering 
+### 🧠 High-Performance Engineering Systems
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdxZTU1aW5xbnQzcG11anRkZm95bzV3ZjZnNDMxeGI4NzhoNmh2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/24cyKbwWMakS8Qyziq/giphy.gif" width="500"/>
 
 ---
 
-### 🚀 Projects
+## 🚀 Selected Projects
 
 | Project | Description |
 |--------|-------------|
-| 🔧 **IoT-Based Vibration Monitor** | Sensor network using ESP32, MQTT, WebSockets, and Grafana for predictive maintenance. |
-| 🤖 **Robotic Sorting System** | Real-time robotic arm with camera + computer vision using Blender and Isaac Sim. |
-| 🌐 **Quantum ML Pipeline** | Hybrid classical-quantum classifiers for engineering datasets using Pennylane. |
-| 📈 **Real-time Grafana Dashboards** | Visualize multi-node sensor data for anomaly detection. |
-| 🔭 **Digital Twin Simulator** | Synced digital-physical robotic system with simulation feedback loop. |
+| 🤖 **Vision-Language-Action Control** | CLIP-based robotic manipulation pipeline with confidence-aware decision metrics |
+| 🛰️ **Digital Twin for Robotic Systems** | Real-time simulation–physical sync using Isaac Sim & Blender |
+| 🦾 **MoonBot Rover + RL** | 6-wheel rover with articulated arm, PPO locomotion, sim-to-real domain randomization |
+| 🔧 **IoT-Based Vibration Monitoring** | Edge sensors + MQTT + Grafana for predictive maintenance |
+| 🌡️ **CFD Validation of Cooling Ducts** | Cross-solver CHT analysis using ANSYS, COMSOL & OpenFOAM |
 
 ---
 
-### 🌍 Now
+## 🌍 Currently
 
-- 📚 Reading: *“Quantum Computation and Quantum Information” by Nielsen & Chuang*  
-- 🔭 Building: Real-time sorting robot with computer vision & ML feedback  
-- 💡 Learning: Advanced robotics control | Reinforcement Learning | ROS2 & Gazebo Sim  
-- 🧠 Exploring: Self-supervised learning in robotic perception
+- 🔭 Working on **learning-based robotic manipulation in simulation**
+- 🧪 Exploring **reinforcement learning and sim-to-real transfer**
+- 📐 Deepening expertise in **robot dynamics, control, and perception**
+- 🛠️ Building more **research-grade simulation pipelines**
 
 ---
 
-### ✨ GitHub Stats
+## ✨ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maneetchatterjee&show_icons=true&theme=tokyonight" height="150"/>
@@ -103,24 +103,23 @@
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/maneetchatterjee/maneetchatterjee/blob/output/github-contribution-grid-snake.svg)
 
-
 ---
 
-### 📫 Let's Connect
+## 📫 Contact
 
-- ✉️ Email: **maneet2018@gmail.com**
-- 🐦 Twitter: [@maneet2018](https://x.com/maneet2018)
-- 🔗 LinkedIn: [linkedin.com/in/maneet-chatterjee-778441190](https://www.linkedin.com/in/maneet-chatterjee-778441190/)
-- 💡 Quote:  
-  > "Engineering is the art of directing the great sources of power in nature for the use and convenience of man."  
-  — Thomas Tredgold
+- ✉️ **Email:** maneet2018@gmail.com  
+- 🐦 **X:** [@maneet2018](https://x.com/maneet2018)  
+- 🔗 **LinkedIn:** [Maneet Chatterjee](https://www.linkedin.com/in/maneet-chatterjee-778441190/)
+
+> *"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."*  
+> — Thomas Tredgold
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F2FF&vCenter=true&width=600&lines=Engineering+the+Future+with+Code+and+Physics.;Making+Machines+Smarter+Every+Day.;Exploring+Reality+and+Simulation+Together."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F2FF&vCenter=true&width=600&lines=Robotics%2C+Simulation%2C+and+Intelligent+Systems.;Bridging+Physics+and+Learning.;Building+Machines+That+Understand+the+World."/>
 </p>
