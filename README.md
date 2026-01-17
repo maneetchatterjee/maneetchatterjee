@@ -31,7 +31,14 @@ Mechanical Engineer · Robotics & Simulation Researcher · Digital Twins · Inte
 - 🧪 Strong background in **physics-based modeling, CFD, and system-level simulation**
 - 🛠️ Comfortable moving from **CAD → simulation → code → experiments**
 
-<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300"/>
+<p align="center">
+  <img
+    src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
+    width="420"
+    alt="Coding animation"
+  />
+</p>
+
 
 ---
 
@@ -97,9 +104,16 @@ Mechanical Engineer · Robotics & Simulation Researcher · Digital Twins · Inte
 ## ✨ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maneetchatterjee&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneetchatterjee&layout=compact&theme=tokyonight" height="150"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=maneetchatterjee&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneetchatterjee&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
+
 
 ---
 
