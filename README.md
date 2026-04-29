@@ -24,7 +24,7 @@ Mechanical Engineer · Robotics & Simulation Researcher · Digital Twins · Inte
 
 ## 👨🏽‍🔬 About Me
 
-- 🏫 **B.Tech Mechanical Engineering**, IIEST Shibpur (Dept. Rank 3/94)
+- 🏫 **B.Tech Mechanical Engineering**, IIEST Shibpur (Dept. Rank 2/94)
 - 🤖 Researching **robotic manipulation, simulation, and embodied AI**
 - 🧠 Building **vision-based control pipelines** and learning-enabled robotic systems
 - 🛰️ Experience in **industrial IoT, edge computing, and digital twins**
