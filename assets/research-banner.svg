@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title description">
+  <title id="title">Connecting physics, simulation, and learning</title>
+  <desc id="description">A navy engineering banner with teal trajectories and a wireframe surface. Building intelligent systems for the physical world.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y2="1">
+      <stop stop-color="#0c1727"/>
+      <stop offset="1" stop-color="#152b3b"/>
+    </linearGradient>
+    <linearGradient id="trace" x1="0" x2="1">
+      <stop stop-color="#57d2c5" stop-opacity=".15"/>
+      <stop offset="1" stop-color="#7de6d5"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#8eb0be" stroke-opacity=".08"/>
+    </pattern>
+    <clipPath id="bounds"><rect width="1280" height="320" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1280" height="320" fill="url(#background)"/>
+    <rect x="738" width="542" height="320" fill="url(#grid)"/>
+    <path d="M0 318H1280" stroke="#60d0bc" stroke-width="4"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="64" y="64" fill="#82dbc9" font-size="14" font-weight="700" letter-spacing="3">PHYSICS / SIMULATION / LEARNING</text>
+      <text x="60" y="132" fill="#f0f5f7" font-size="48" font-weight="700">Building intelligent systems</text>
+      <text x="60" y="190" fill="#f0f5f7" font-size="48" font-weight="700">for the physical world.</text>
+      <text x="64" y="258" fill="#b5c8d2" font-size="19">Robotics · Generative engineering · Visual perception</text>
+    </g>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <g stroke="#79bcbd" stroke-opacity=".45" stroke-width="1.2">
+        <path d="M840 198 980 111 1194 144 1054 261Z"/>
+        <path d="m863 183 214 58m-191-73 214 54m-191-68 214 48m-191-62 214 41m-191-56 214 34"/>
+        <path d="m876 209 140-92m-104 101 140-95m-104 105 140-100m-104 110 140-104m-104 113 140-109"/>
+      </g>
+      <path d="M808 258C894 244 900 76 1020 92S1106 229 1233 70" stroke="url(#trace)" stroke-width="3"/>
+      <path d="M823 277C947 245 918 112 1029 123S1130 215 1235 118" stroke="#6db4c2" stroke-opacity=".4" stroke-width="1.5"/>
+      <circle cx="1020" cy="92" r="6" fill="#83e7d2" stroke="#0d2232" stroke-width="3"/>
+      <circle cx="1146" cy="158" r="5" fill="#83e7d2" stroke="#0d2232" stroke-width="3"/>
+      <circle cx="887" cy="191" r="4" fill="#83e7d2"/>
+      <circle cx="1121" cy="119" r="52" stroke="#66cbbb" stroke-opacity=".1"/>
+    </g>
+  </g>
+</svg>
