@@ -1,143 +1,107 @@
-<!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maneetchatterjee/maneetchatterjee/main/assets/banner.gif" alt="Maneet Chatterjee Banner" width="100%" />
+  <a href="https://maneetchatterjee.github.io/">
+    <img src="./assets/research-banner.svg" alt="Connecting physics, simulation, and learning to build intelligent systems." width="100%" />
+  </a>
 </p>
 
-<!-- Profile Image -->
-<p align="center">
-  <img src="./profile.jpg" alt="Profile" width="200" style="border-radius:50%; box-shadow:0 0 10px #00f2ff;" />
-</p>
-
-<h1 align="center">Hi, I'm Maneet Chatterjee 👋</h1>
-<h3 align="center">
-Mechanical Engineer · Robotics & Simulation Researcher · Digital Twins · Intelligent Systems
-</h3>
+<h1 align="center">Maneet Chatterjee</h1>
+<p align="center"><strong>Mechanical Engineering · Robotics · Generative Design · Computer Vision</strong></p>
 
 <p align="center">
-  <a href="https://x.com/maneet2018"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=flat&logo=Twitter&logoColor=white" /></a>
-  <a href="mailto:maneet2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat&logo=Gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/maneet-chatterjee-778441190/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=LinkedIn&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/maneetchatterjee"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
+  <a href="https://maneetchatterjee.github.io/"><strong>Portfolio</strong></a> &nbsp; / &nbsp;
+  <a href="https://maneetchatterjee.github.io/assets/Maneet_Chatterjee_CV.pdf"><strong>CV</strong></a> &nbsp; / &nbsp;
+  <a href="https://scholar.google.com/citations?user=Z3N1lSMAAAAJ&amp;hl=en">Google Scholar</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/maneet-chatterjee-778441190/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:maneet2018@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨🏽‍🔬 About Me
+### About
 
-- 🏫 **B.Tech Mechanical Engineering**, IIEST Shibpur (Dept. Rank 2/94)
-- 🤖 Researching **robotic manipulation, simulation, and embodied AI**
-- 🧠 Building **vision-based control pipelines** and learning-enabled robotic systems
-- 🛰️ Experience in **industrial IoT, edge computing, and digital twins**
-- 🧪 Strong background in **physics-based modeling, CFD, and system-level simulation**
-- 🛠️ Comfortable moving from **CAD → simulation → code → experiments**
+I'm a final-year **Mechanical Engineering undergraduate at IIEST Shibpur**, working at the intersection of **robotics, AI, and aerospace engineering**. My work connects learning-based methods with physical constraints, simulation, and rigorous validation.
 
-<p align="center">
-  <img
-    src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
-    width="420"
-    alt="Coding animation"
-  />
-</p>
+- **Education:** B.Tech., Mechanical Engineering · expected May 2027 · CGPA **3.63/4.00** through Semester VI.
+- **Research interests:** embodied intelligence, generative engineering, digital twins, and visual perception.
+- **Open to:** MS/PhD research, research collaborations, and industry R&D opportunities.
 
+### Research & industry experience
 
----
+| Organization | Role & period | Selected work |
+| :--- | :--- | :--- |
+| **Synopsys** | R&D Intern · Jun 2026–present | Generative eVTOL inverse design, coupling conditional latent diffusion with **SUAVE, OpenVSP, and VSPAERO**; geometric validity, solver convergence, and provenance tracking. |
+| **University of Tsukuba** | Research Assistant · Mar 2026–present | Surgical-video understanding using **MedSAM/SAM 3 and VideoMAE**; **91.6% balanced accuracy / 89.7% F1** under five-fold case-disjoint validation across 28 procedures. |
+| **Ansys** | R&D Intern · May–Jul 2025 | Vision-guided robotic manipulation, camera calibration, and kinematics; embedded monitoring and digital-twin validation in **Isaac Sim, Blender, and Unreal Engine**. |
+| **IIEST Shibpur** | Research Assistant · Aug–Dec 2024 | Physics-based modeling of solar-powered hydrogen production and photovoltaic–electrolyzer power matching. |
 
-## 🧠 Technical Profile
+### Selected projects
 
-| Category | Details |
-|--------|--------|
-| **Programming** | Python, C++, C#, MATLAB, SQL, JavaScript |
-| **ML & Vision** | PyTorch, TensorFlow, OpenCV, Scikit-learn |
-| **Robotics & Sim** | ROS (1 & 2), PyBullet, MuJoCo, Isaac Sim, Gazebo |
-| **Design & CFD** | SolidWorks, ANSYS Fluent, COMSOL, OpenFOAM, Blender |
-| **IoT & Systems** | Raspberry Pi, MQTT, WebSockets, InfluxDB, Grafana |
-| **Infra & Tools** | Git, Docker, Linux, LaTeX |
-| **Research Focus** | Robotic manipulation · Digital twins · Learning-based control |
-| **CV / Resume** | [📄 View CV](https://drive.google.com/file/d/1UJ4YjfePSzFzEn3A_ixVTQO6Fih0FTRr/view) |
+**Physics-gated generative CAD for aircraft inverse design**  
+Probabilistic design grammars and Sobol sampling coupled to SUAVE mission analysis, **30 physical constraints**, and automated STL/OBJ generation. Produced **21/21 physically valid, watertight designs in the evaluated set**.  
+[Project details →](https://maneetchatterjee.github.io/#research)
 
----
+**Vision-language-action robotic manipulation**  
+CLIP ViT-B/32-guided pick-and-place in **PyBullet**, with five objects and four sorting zones. A target–distractor confidence margin achieved **ROC-AUC 0.75 for execution-outcome separation** in simulation.  
+[Method & evaluation →](https://maneetchatterjee.github.io/#research)
 
-## 🛠️ Tech Stack
+**MoonBot: rover design & reinforcement learning**  
+A six-wheel rover with an articulated arm, from **SolidWorks CAD to URDF and a Gym-compatible simulation**. PPO locomotion uses mass and friction randomization; physical deployment remains future work.  
+[Repository →](https://github.com/maneetchatterjee/MoonBot)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![PyBullet](https://img.shields.io/badge/PyBullet-FFD700?style=for-the-badge)
-![MuJoCo](https://img.shields.io/badge/MuJoCo-000000?style=for-the-badge)
-![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![MQTT](https://img.shields.io/badge/MQTT-FF6F00?style=for-the-badge)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge)
+**Cross-solver CFD validation of curved cooling ducts**  
+Matched conjugate heat-transfer cases in **Fluent, COMSOL, and OpenFOAM**, investigating Dean-type vortices. Improved mean Nusselt number **18% over the project baseline**, with pressure-drop predictions agreeing within **6% across solvers**.  
+[Project details →](https://maneetchatterjee.github.io/#research)
 
----
+### Publications & preprints
 
-## 🧪 Visuals from Engineering & Simulation
+- **BMD-CD: Temporally Ordered Region-Token Mamba with Logit-Space Diffusion for Remote Sensing Change Detection**  
+  **arXiv preprint · 2026.** Temporally ordered region tokens, state-space propagation, and logit-space diffusion for change localization.  
+  [Paper](https://arxiv.org/abs/2609.27149) · [Code](https://github.com/Aparup2139/BMD-CD_Remote_Sensing_Change_Detection)
 
-### 🧠 High-Performance Engineering Systems
+- **Topology-Constrained Graph-Mamba with Logit Diffusion for Change Detection**  
+  **MONTI Workshop at CVPR · 2026 · First author · Non-archival.**  
+  [Paper](https://drive.google.com/file/d/17JkIaBy7NDwSvhO4n0Ao3X1YUClEh4hm/view) · [Workshop](https://sites.google.com/view/monti2026/home)
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdxZTU1aW5xbnQzcG11anRkZm95bzV3ZjZnNDMxeGI4NzhoNmh2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/24cyKbwWMakS8Qyziq/giphy.gif" width="500"/>
+- **Beyond CNNs: EfficientMamba Powered Sequence Learning and Curriculum-Guided Domain Adaptation for Fossil Classification**  
+  **IEEE InGARSS · 2025.**
 
----
+- **EEMAMBA: A Hardware-Aware Energy-Efficient State-Space Model for EuroSAT Classification**  
+  **IEEE IGARSS · 2025 · First author.**  
+  [Paper / DOI](https://doi.org/10.1109/IGARSS55030.2025.11314046) · [Code](https://github.com/maneetchatterjee/EEMAMBA)
 
-## 🚀 Selected Projects
+- **ExoSpikeNet: A Light Curve Analysis Based Spiking Neural Network for Exoplanet Detection**  
+  **IEEE CSNT · 2024 · First author.**  
+  [Paper / DOI](https://doi.org/10.1109/CSNT60213.2024.10545663) · [Code](https://github.com/maneetchatterjee/Exoplanet-Classification-using-Spiking-Neural-Networks)
 
-| Project | Description |
-|--------|-------------|
-| 🤖 **Vision-Language-Action Control** | CLIP-based robotic manipulation pipeline with confidence-aware decision metrics |
-| 🛰️ **Digital Twin for Robotic Systems** | Real-time simulation–physical sync using Isaac Sim & Blender |
-| 🦾 **MoonBot Rover + RL** | 6-wheel rover with articulated arm, PPO locomotion, sim-to-real domain randomization |
-| 🔧 **IoT-Based Vibration Monitoring** | Edge sensors + MQTT + Grafana for predictive maintenance |
-| 🌡️ **CFD Validation of Cooling Ducts** | Cross-solver CHT analysis using ANSYS, COMSOL & OpenFOAM |
+### Technical toolkit
 
----
+| Area | Tools |
+| :--- | :--- |
+| **Programming & ML** | Python, C++, MATLAB, SQL, JavaScript, Julia · PyTorch, TensorFlow, scikit-learn, OpenCV |
+| **Robotics & systems** | ROS 1/2, Isaac Sim, PyBullet, MuJoCo, Gazebo, Simulink · Raspberry Pi, MQTT |
+| **Aerospace & simulation** | SUAVE, OpenVSP, VSPAERO · Fluent, OpenFOAM, COMSOL, STAR-CCM+ |
+| **CAD & CAE** | SolidWorks, CATIA, Fusion 360, Siemens Designcenter · Ansys Mechanical, Abaqus |
+| **Engineering workflows** | Git, Docker, LaTeX · Digital twins, IT–OT integration, InfluxDB, Grafana |
 
-## 🌍 Currently
+<details>
+<summary><strong>Recognition & certifications</strong></summary>
 
-- 🔭 Working on **learning-based robotic manipulation in simulation**
-- 🧪 Exploring **reinforcement learning and sim-to-real transfer**
-- 📐 Deepening expertise in **robot dynamics, control, and perception**
-- 🛠️ Building more **research-grade simulation pipelines**
+- **GAABESU Research Award** · 2025.
+- **IEEE GRSS Travel Grant** for IGARSS · 2025.
+- Co-authored / presented work on **IT–OT integration and digital twins** at the 6th Ansys TechCon and 2nd AIIoT · 2025.
+- Deep Learning Specialization · 2026; SOLIDWORKS Professional · 2025; MATLAB Deep Learning · 2024.
 
----
+</details>
 
-<h2>✨ GitHub Stats</h2>
+<details>
+<summary><strong>Contribution activity</strong></summary>
 
-<p align="center">
-  <img
-    src="https://stats-github-readme.vercel.app/api?username=maneetchatterjee&show_icons=true&theme=tokyonight"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://stats-github-readme.vercel.app/api/top-langs?username=maneetchatterjee&layout=compact&theme=tokyonight"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
+![Animated GitHub contribution grid](https://raw.githubusercontent.com/maneetchatterjee/maneetchatterjee/output/github-contribution-grid-snake.svg)
 
-
+</details>
 
 ---
 
-## 🐍 Contribution Snake
+**Let's connect:** [maneet2018@gmail.com](mailto:maneet2018@gmail.com) · [LinkedIn](https://www.linkedin.com/in/maneet-chatterjee-778441190/) · [X](https://x.com/maneet2018) · [Kaggle](https://www.kaggle.com/maneetchatterjee)
 
-![snake animation](https://raw.githubusercontent.com/maneetchatterjee/maneetchatterjee/output/github-contribution-grid-snake.svg)
-
-
----
-
-## 📫 Contact
-
-- ✉️ **Email:** maneet2018@gmail.com  
-- 🐦 **X:** [@maneet2018](https://x.com/maneet2018)  
-- 🔗 **LinkedIn:** [Maneet Chatterjee](https://www.linkedin.com/in/maneet-chatterjee-778441190/)
-
-> *"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."*  
-> — Thomas Tredgold
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F2FF&vCenter=true&width=600&lines=Robotics%2C+Simulation%2C+and+Intelligent+Systems.;Bridging+Physics+and+Learning.;Building+Machines+That+Understand+the+World."/>
-</p>
+<p align="center"><sub>Kolkata, India · Updated October 2026</sub></p>
