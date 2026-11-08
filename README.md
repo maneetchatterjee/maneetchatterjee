@@ -93,13 +93,6 @@ Matched conjugate heat-transfer cases in **Fluent, COMSOL, and OpenFOAM**, inves
 
 </details>
 
-<details>
-<summary><strong>Contribution activity</strong></summary>
-
-![Animated GitHub contribution grid](https://raw.githubusercontent.com/maneetchatterjee/maneetchatterjee/output/github-contribution-grid-snake.svg)
-
-</details>
-
 ---
 
 **Let's connect:** [maneet2018@gmail.com](mailto:maneet2018@gmail.com) · [LinkedIn](https://www.linkedin.com/in/maneet-chatterjee-778441190/) · [X](https://x.com/maneet2018) · [Kaggle](https://www.kaggle.com/maneetchatterjee)
